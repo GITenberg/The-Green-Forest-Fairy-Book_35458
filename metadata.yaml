@@ -1,0 +1,35 @@
+_repo: The-Green-Forest-Fairy-Book_35458
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Preston, Alice Bolam
+    alias: Preston, Alice B.
+    gutenberg_agent_id: '9553'
+    url: http://www.gutenberg.org/2009/agents/9553
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Loretta Ellen
+    gutenberg_agent_id: '37692'
+    url: http://www.gutenberg.org/2009/agents/37692
+description: ''
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Prologue -- Dame Grumble and her curious apple-tree -- A tale of
+  the Northland Kingdom -- The little tree that never grew up -- The tale of Punchinello
+  -- The strange tale of the brown bear -- The Beggar Princess -- Sweep and Little
+  Sweep -- Kings and queens and peasant folk -- The goose girl and the blue gander
+  -- The little brown man -- A tale for Halloween.
+title: The Green Forest Fairy Book
+url: http://www.gutenberg.org/ebooks/35458
